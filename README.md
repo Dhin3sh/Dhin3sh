@@ -4,10 +4,10 @@
 
 <h1>Hi 👋, I'm Dhinesh Kumar</h1>
 
-<h3>DevOps Engineer • Cloud • Automation • Software Development</h3>
+<h3>DevOps Engineer • Cloud & Infrastructure • Automation</h3>
 
 <p>
-Building reliable systems, automating infrastructure, and turning ideas into practical software.
+Building and operating reliable systems through cloud infrastructure, automation, CI/CD, and software engineering.
 </p>
 
 <p>
