@@ -1,30 +1,44 @@
-<h1 align="center">Hi 👋, I'm Dhinesh Kumar</h1>
+<table>
+<tr>
+<td width="65%" valign="middle">
 
-<h3 align="center">
-DevOps Engineer • Cloud • Automation • Software Development
-</h3>
+<h1>Hi 👋, I'm Dhinesh Kumar</h1>
 
-<p align="center">
-  Building reliable systems, automating infrastructure, and turning ideas into practical software.
+<h3>DevOps Engineer • Cloud • Automation • Software Development</h3>
+
+<p>
+Building reliable systems, automating infrastructure, and turning ideas into practical software.
 </p>
 
-<p align="center">
+<p>
   <a href="https://github.com/Dhin3sh">
-    <img src="https://img.shields.io/badge/GitHub-Dhin3sh-181717?style=for-the-badge&logo=github" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-Dhin3sh-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github.com/Dhin3sh.png" width="150" alt="Dhinesh Kumar">
-</p>
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://github.com/Dhin3sh.png" width="180" alt="Dhinesh Kumar">
+
+</td>
+</tr>
+</table>
 
 ## 👨‍💻 About Me
 
-I'm a DevOps Engineer with a strong interest in **Cloud, Automation, Backend Development, and building practical software products**.
+I'm a **DevOps Engineer and software builder** focused on cloud infrastructure, automation, backend systems, and practical products.
 
-I enjoy working across the entire journey of a system — from **infrastructure and CI/CD to backend services, databases, and deployment**.
+I enjoy taking an idea from **architecture → development → deployment → operations**, with a strong focus on reliability, simplicity, and automation.
 
-Currently, I'm exploring how **AI, automation, and modern software engineering** can be combined to build useful real-world products.
+Currently building and experimenting with:
+- ☁️ Cloud & DevOps infrastructure
+- ⚙️ Automation and CI/CD
+- 🐍 Python & FastAPI backend systems
+- 🏢 Business software with **New-T**
+- 🗞️ AI-powered applications with **New-K**
+- 🤖 Practical AI and automation
 
 ## 🛠️ Tech Stack
 
@@ -50,41 +64,49 @@ Currently, I'm exploring how **AI, automation, and modern software engineering**
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏢 New-T
+<h3>🏢 New-T</h3>
 
-**Business Operating System for Small Businesses**
+<b>Business Operating System for Small Businesses</b>
 
-A modular business platform designed to simplify daily operations such as sales, inventory, expenses, staff, attendance, salary, and reporting.
+<p>
+A modular platform designed to manage everyday business operations including sales, inventory, expenses, staff, attendance, salary, and reporting.
+</p>
 
-**Tech:** `Python` `FastAPI` `SQLAlchemy` `SQLite` `Alembic`
+<p>
+<b>Tech:</b><br>
+Python • FastAPI • SQLAlchemy • SQLite • Alembic
+</p>
 
 <a href="https://github.com/Dhin3sh/new-t">
-  View Project →
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" alt="View New-T">
 </a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🗞️ New-K
+<h3>🗞️ New-K</h3>
 
-**Tamil AI News Coach**
+<b>Tamil AI News Coach</b>
 
-An AI-powered Tamil news reading system with automated text processing and offline Tamil speech generation.
+<p>
+An AI-powered Tamil news reading system combining automated text processing with offline Tamil speech generation.
+</p>
 
-**Tech:** `Python` `FastAPI` `Piper TTS` `SQLite`
+<p>
+<b>Tech:</b><br>
+Python • FastAPI • Piper TTS • SQLite
+</p>
 
 <a href="https://github.com/Dhin3sh">
-  View Project →
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" alt="View New-K">
 </a>
 
 </td>
 </tr>
-
-<tr>
-<td width="50%">
+</table>
 
 ### ☁️ Cloud & DevOps
 
@@ -109,18 +131,60 @@ Building useful AI-powered tools by combining automation, backend engineering, s
 </td>
 </tr>
 </table>
-## 📊 GitHub Stats
 
-Stats will be generated automatically.
+## 📊 GitHub Activity
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhin3sh&hide_border=true" alt="GitHub Activity Graph" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Currently Building
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 New-T
+
+Expanding a modular **Business Operating System** for small businesses.
+
+Current focus:
+
+- Sales & cash management
+- Inventory & stock
+- Staff & attendance
+- Salary & payments
+- Reports & dashboards
+- Clean modular architecture
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 AI & Automation
+
+Exploring practical ways to combine **AI, automation, and software engineering** to solve real-world problems.
+
+Current focus:
+
+- AI-powered applications
+- Speech & language technologies
+- Workflow automation
+- Developer tooling
+- Cloud-based systems
+
+</td>
+</tr>
+</table>
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/Dhin3sh">
+    <img src="https://img.shields.io/badge/GitHub-Dhin3sh-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <!-- Add LinkedIn here when we're ready -->
+</p>
+<p align="center">
+  <i>Building. Automating. Learning. 🚀</i>
+</p>
