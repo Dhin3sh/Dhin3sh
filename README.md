@@ -7,12 +7,16 @@
 <h3>DevOps Engineer • Cloud & Infrastructure • Automation</h3>
 
 <p>
-Building and operating reliable systems through cloud infrastructure, automation, CI/CD, and software engineering.
+Building and operating reliable systems through cloud infrastructure,
+automation, CI/CD, and software engineering.
 </p>
 
 <p>
   <a href="https://github.com/Dhin3sh">
     <img src="https://img.shields.io/badge/GitHub-Dhin3sh-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/dhinesh-kumar-alagirisamy/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
@@ -66,6 +70,38 @@ Currently building and experimenting with:
 </p>
 
 ---
+## 🎯 Professional Focus
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### ☁️ Cloud & Infrastructure
+
+Designing and operating cloud infrastructure with a focus on reliability, security, scalability, and cost awareness.
+
+</td>
+
+<td width="33%" valign="top">
+
+### ⚙️ DevOps & SRE
+
+CI/CD, automation, containerization, deployment workflows, production support, and operational reliability.
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🧩 Software Engineering
+
+Building modular backend systems and practical applications with clean architecture and maintainable code.
+
+</td>
+
+</tr>
+</table>
+
 
 ## 🚀 Featured Projects
 
@@ -76,20 +112,22 @@ Currently building and experimenting with:
 
 <h3>🏢 New-T</h3>
 
-<b>Business Operating System for Small Businesses</b>
+<p><b>Business Operating System for Small Businesses</b></p>
 
 <p>
-A modular platform designed to manage everyday business operations including sales, inventory, expenses, staff, attendance, salary, and reporting.
+A modular platform designed to bring everyday business operations into one system — from sales and inventory to staff, attendance, salary, and reporting.
 </p>
 
 <p>
-<b>Tech:</b><br>
-Python • FastAPI • SQLAlchemy • SQLite • Alembic
+<b>Built with</b><br>
+<img src="https://skillicons.dev/icons?i=python,fastapi,sqlite" height="35">
 </p>
 
-<a href="https://github.com/Dhin3sh/new-t">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" alt="View New-T">
-</a>
+<p>
+  <a href="https://github.com/Dhin3sh/new-t">
+    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="New-T Repository">
+  </a>
+</p>
 
 </td>
 
@@ -97,20 +135,22 @@ Python • FastAPI • SQLAlchemy • SQLite • Alembic
 
 <h3>🗞️ New-K</h3>
 
-<b>Tamil AI News Coach</b>
+<p><b>Tamil AI News Coach</b></p>
 
 <p>
-An AI-powered Tamil news reading system combining automated text processing with offline Tamil speech generation.
+An AI-powered Tamil news reading system combining text processing, language processing, and offline speech generation.
 </p>
 
 <p>
-<b>Tech:</b><br>
-Python • FastAPI • Piper TTS • SQLite
+<b>Built with</b><br>
+<img src="https://skillicons.dev/icons?i=python,fastapi,sqlite" height="35">
 </p>
 
-<a href="https://github.com/Dhin3sh">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" alt="View New-K">
-</a>
+<p>
+  <a href="https://github.com/Dhin3sh">
+    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="New-K Repository">
+  </a>
+</p>
 
 </td>
 
@@ -169,7 +209,15 @@ Exploring practical ways to combine **AI, automation, and software engineering**
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhin3sh&hide_border=true" alt="GitHub Activity Graph">
+  <a href="https://github.com/Dhin3sh">
+    <img src="https://img.shields.io/github/followers/Dhin3sh?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers">
+  </a>
+  <a href="https://github.com/Dhin3sh?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Dhin3sh?style=for-the-badge&logo=github&label=Stars" alt="GitHub Stars">
+  </a>
+  <a href="https://github.com/Dhin3sh?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-View-181717?style=for-the-badge&logo=github" alt="Repositories">
+  </a>
 </p>
 
 ---
@@ -180,7 +228,11 @@ Exploring practical ways to combine **AI, automation, and software engineering**
   <a href="https://github.com/Dhin3sh">
     <img src="https://img.shields.io/badge/GitHub-Dhin3sh-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
+  <a href="https://www.linkedin.com/in/dhinesh-kumar-alagirisamy/">
+    <img src="https://img.shields.io/badge/LinkedIn-Dhinesh_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
+
 
 ---
 
