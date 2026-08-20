@@ -4,12 +4,12 @@
 
 <h1>Hi 👋, I'm Dhinesh Kumar</h1>
 
-<h3>Software Engineer • DevOps • Backend • AI</h3>
+<h3>Software Engineer • DevOps • Cloud • Automation</h3>
 
 <p>
-Software engineer with extensive experience in software testing,
-now building backend systems, automation, AI-powered applications,
-and production-oriented software products.
+Software engineer with extensive experience in software testing and
+enterprise environments, now building backend systems, automation,
+AI-powered applications, and production-oriented software products.
 </p>
 
 <p>
@@ -35,9 +35,9 @@ and production-oriented software products.
 
 ## 👨‍💻 About Me
 
-My engineering journey started with **software testing and enterprise systems**, where I developed a strong foundation in quality, debugging, automation, and understanding software from the user's and system's perspective.
+My engineering journey started with **software testing and enterprise systems**, giving me a strong foundation in quality engineering, debugging, automation, and understanding software from both user and system perspectives.
 
-Today, I'm moving deeper into **software engineering and product development**, building backend systems and exploring how cloud infrastructure, automation, AI, and modern development practices can be combined to solve real-world problems.
+Today, I'm working across **DevOps, cloud infrastructure, backend engineering, automation, and AI-powered product development**.
 
 I enjoy working across the complete lifecycle:
 
@@ -51,57 +51,65 @@ My focus is on building software that is **modular, maintainable, secure, testab
 
 **Mukil Tech Labs** is my technology and product initiative focused on building practical software and AI-powered products.
 
-The current product ecosystem explores the intersection of:
+The current ecosystem explores the intersection of:
 
 **AI + Media + Automation + Advertising**
 
 <table>
 <tr>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
+
+<h3>📣 new-n</h3>
+
+<b>News Now — Advertising Platform</b>
+
+<p>
+A backend platform being developed for managed advertising campaigns,
+campaign workflows, and future media distribution.
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🎬 new-d</h3>
+
+<b>News Distribution</b>
+
+<p>
+Automation for collecting, processing, transforming, and distributing
+news and media content.
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 <h3>🗞️ new-k</h3>
 
 <b>News Coach</b>
 
 <p>
-AI-powered news content generation and processing, initially focused on Tamil news.
-</p>
-
-<p>
-Text processing • AI • TTS • Automation
+AI-assisted news processing and Tamil speech generation for an
+automated media-content pipeline.
 </p>
 
 </td>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-<h3>🎬 new-d</h3>
+<h3>🏢 New-T</h3>
 
-<b>News Deployment</b>
-
-<p>
-Automated transformation of generated news into social-media-ready video and media content.
-</p>
+<b>Business Operating System</b>
 
 <p>
-Video • Audio • Captions • Publishing
-</p>
-
-</td>
-
-<td width="33%" valign="top">
-
-<h3>📣 new-n</h3>
-
-<b>News Now</b>
-
-<p>
-A managed advertising platform being developed to connect businesses with the media ecosystem.
-</p>
-
-<p>
-Backend • Campaigns • AI • Advertising
+A modular platform for managing sales, cash, inventory, expenses,
+staff, attendance, salary, and business reporting.
 </p>
 
 </td>
@@ -113,29 +121,119 @@ Backend • Campaigns • AI • Advertising
 
 ## 🚀 Featured Projects
 
+### 🏢 New-T — Business Operating System
+
+**Business Operating System for Small Businesses**
+
+A modular business platform designed to digitize everyday small-business
+operations while keeping the workflow simple and close to how businesses
+already operate.
+
+**Core areas**
+
+- Sales and cash management
+- Inventory and stock
+- Expenses
+- Staff management
+- Attendance
+- Salary and payments
+- Reports and dashboards
+- Business-day operations
+
+**Engineering focus**
+
+- Modular FastAPI architecture
+- REST API development
+- SQLAlchemy data modeling
+- PostgreSQL/SQLite-oriented database design
+- Alembic database migrations
+- Business-rule implementation
+- Automated testing
+- Clean separation of concerns
+
+**Technology**
+
+`Python` `FastAPI` `SQLAlchemy` `SQLite` `Alembic`
+
+<a href="https://github.com/Dhin3sh/new-t">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="New-T Repository">
+</a>
+
 ### 📣 new-n — News Now
 
-**AI-ready advertising platform**
+**Advertising Platform**
 
 The main backend product currently under development at Mukil Tech Labs.
 
-The platform is designed around a managed advertising workflow where businesses can create campaigns, submit them for review, manage campaign lifecycle, and eventually distribute campaigns through advertising platforms.
+The platform is being designed around a managed advertising workflow where businesses can create campaigns, submit them for review, manage campaign lifecycle, and eventually distribute campaigns through advertising platforms.
 
-**Current engineering focus:**
+**Engineering focus**
 
-* 🔐 Authentication & authorization
-* 👤 User and role management
-* 📋 Campaign management
-* 🔄 Campaign workflow and state management
-* 🗄️ PostgreSQL database architecture
-* 🔧 REST APIs with FastAPI
-* 🐳 Dockerized development
-* 🧪 Automated testing
-* 🏗️ Modular backend architecture
+- 🔐 Authentication and authorization
+- 👤 User and role management
+- 📋 Campaign management
+- 🔄 Campaign lifecycle and workflow
+- 🗄️ PostgreSQL database architecture
+- 🔧 REST APIs with FastAPI
+- 🧱 Modular backend architecture
+- 🐳 Dockerized development
+- 🧪 Automated testing
+- 📝 Structured logging
+- 🔄 Database migrations with Alembic
 
-**Technology:**
+**Technology**
 
-`Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic` `Docker` `Pydantic`
+`Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic` `Pydantic` `Docker`
+
+---
+
+### 🎬 new-d — News Distribution
+
+**Content Collection, Processing & Distribution Automation**
+
+A Python-based automation project for collecting, processing, transforming, and distributing news and media content.
+
+**Engineering focus**
+
+- Browser automation with Playwright
+- Persistent browser sessions
+- Browser authentication/state management
+- Message extraction and processing
+- Hash-based message identification
+- REST API integration
+- Automated content collection
+- Text processing
+- Audio and media processing
+- FFmpeg-based media workflows
+- Text-to-speech processing
+- Content distribution automation
+
+**Technology**
+
+`Python` `Playwright` `FastAPI` `FFmpeg` `REST APIs`
+
+---
+
+### 🗞️ new-k — News Coach
+
+**Tamil AI News Coach**
+
+An AI-assisted Tamil news processing and speech generation system designed to transform news content into structured, readable, and speech-ready output.
+
+**Engineering focus**
+
+- Modular text-processing pipeline
+- Tamil language processing
+- Number and date processing
+- Dictionary-based processing
+- Pause and speech preparation
+- Offline Tamil Text-to-Speech
+- Audio generation and retrieval APIs
+- Automated testing
+
+**Technology**
+
+`Python` `FastAPI` `Piper TTS` `SQLite` `NLP`
 
 ---
 
@@ -143,16 +241,16 @@ The platform is designed around a managed advertising workflow where businesses 
 
 A modular business platform designed to bring everyday small-business operations into one system.
 
-The platform explores areas such as:
+The platform covers areas including:
 
-* Sales & cash management
-* Inventory & stock
-* Staff & attendance
-* Salary & payments
-* Expenses
-* Reports & dashboards
+- Sales and cash management
+- Inventory and stock
+- Staff and attendance
+- Salary and payments
+- Expenses
+- Reports and dashboards
 
-**Technology:**
+**Technology**
 
 `Python` `FastAPI` `SQLAlchemy` `SQLite` `Alembic`
 
@@ -162,49 +260,73 @@ The platform explores areas such as:
 
 ---
 
-### 🗞️ new-k — News Coach
-
-An AI-powered Tamil news processing and reading system.
-
-The project combines automated text processing with offline speech generation to create a foundation for an automated media-content pipeline.
-
-**Technology:**
-
-`Python` `FastAPI` `Piper TTS` `SQLite` `NLP`
-
----
-
-## 🎯 Engineering Focus
+## ⚙️ Engineering Focus
 
 <table>
 <tr>
 
 <td width="33%" valign="top">
 
-### 🧩 Backend Engineering
+### ☁️ DevOps & Cloud
 
-Building modular APIs and backend systems with strong separation of concerns, validation, database design, authentication, and maintainability.
+- AWS
+- Kubernetes
+- Docker
+- Ansible
+- CI/CD
+- Jenkins
+- Git
+- Infrastructure automation
+- Deployment automation
+- Configuration management
 
 </td>
 
 <td width="33%" valign="top">
 
-### ☁️ Cloud & DevOps
+### 📊 Monitoring & Reliability
 
-Cloud infrastructure, CI/CD, containerization, deployment automation, production support, observability, and operational reliability.
+- Prometheus
+- Grafana
+- OpenSearch
+- Centralized logging
+- Log analysis
+- Metrics & alerting
+- Infrastructure observability
+- Production support
+- System troubleshooting
 
 </td>
 
 <td width="33%" valign="top">
 
-### 🤖 AI & Automation
+### 🧩 Software Engineering
 
-Exploring AI/LLM integration, speech technologies, workflow automation, and intelligent systems that solve practical problems.
+- Python
+- FastAPI
+- Pydantic
+- REST APIs
+- Playwright
+- FFmpeg
+- Browser automation
+- API integration
+- Text processing
+- Automation scripting
 
 </td>
 
 </tr>
 </table>
+
+---
+
+## 🔐 Security & Configuration
+
+- HashiCorp Vault
+- Secrets management
+- Secure configuration
+- Environment-based configuration
+- Application configuration management
 
 ---
 
@@ -214,37 +336,27 @@ My background in software testing is an important part of how I approach enginee
 
 It influences how I design and build systems:
 
-* Thinking about edge cases early
-* Designing testable components
-* Validating API behaviour
-* Understanding failure scenarios
-* Automating repetitive validation
-* Improving software reliability
-* Thinking from both user and system perspectives
+- Thinking about edge cases early
+- Designing testable components
+- Validating API behaviour
+- Understanding failure scenarios
+- Automating repetitive validation
+- Improving software reliability
+- Thinking from both user and system perspectives
 
-I see **testing and development as complementary engineering disciplines**, not separate worlds.
+I see **testing and development as complementary engineering disciplines**.
 
 ---
 
-## 🛠️ Technology Stack
-
-### Backend & Development
+## 🛠️ Development Environment
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,typescript,react,postgresql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,aws,docker,kubernetes,jenkins,ansible,git,github,postgresql,sqlite,linux,bash,vscode" />
 </p>
 
-### Cloud & DevOps
+Additional tools and platforms:
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions,linux" />
-</p>
-
-### Engineering Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,bash" />
-</p>
+`PowerShell` `WSL2` `Docker Desktop` `FFmpeg` `Playwright`
 
 ---
 
@@ -252,11 +364,11 @@ I see **testing and development as complementary engineering disciplines**, not 
 
 ### 📣 new-n
 
-Continuing development of the **News Now advertising platform**, with emphasis on backend architecture, authentication, campaign workflows, PostgreSQL, Docker, testing, and production-oriented engineering.
+Continuing development of the **News Now advertising platform**, with a focus on backend architecture, authentication, campaign workflows, PostgreSQL, Docker, testing, and production-oriented engineering.
 
-### 🧠 Mukil Tech Labs
+### 🏗️ Mukil Tech Labs
 
-Developing the broader ecosystem connecting:
+Developing a broader ecosystem connecting:
 
 ```text
 AI News Generation
@@ -265,7 +377,7 @@ Content Processing
         ↓
 Media / Video Generation
         ↓
-Social Distribution
+Distribution
         ↓
 Audience
         ↓
@@ -274,47 +386,3 @@ Advertising
 Campaign Management
         ↓
 Analytics & Optimization
-```
-
-The long-term direction is an **AI-powered media and advertising ecosystem**.
-
----
-
-## 📚 Engineering Principles
-
-```text
-Clean Architecture
-        +
-Modular Design
-        +
-Automation
-        +
-Testing
-        +
-Security
-        +
-Observability
-        +
-Continuous Improvement
-```
-
-I prefer solutions that are **simple enough to maintain, structured enough to scale, and tested enough to trust**.
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/Dhin3sh">
-    <img src="https://img.shields.io/badge/GitHub-Dhin3sh-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/dhinesh-kumar-alagirisamy/">
-    <img src="https://img.shields.io/badge/LinkedIn-Dhinesh_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>Build • Test • Automate • Ship • Improve</i>
-</p>
