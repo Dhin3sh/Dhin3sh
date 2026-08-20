@@ -1,7 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Dhinesh Kumar</h1>
 
-<!--
-**Dhin3sh/Dhin3sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+DevOps Engineer • Cloud • Automation • Software Development
+</h3>
+
+<p align="center">
+  Building reliable systems, automating infrastructure, and turning ideas into practical software.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Dhin3sh">
+    <img src="https://img.shields.io/badge/GitHub-Dhin3sh-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+</p>
 
 Here are some ideas to get you started:
 
