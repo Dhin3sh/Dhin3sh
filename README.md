@@ -55,9 +55,9 @@ The current ecosystem explores the intersection of:
 
 **AI + Media + Automation + Advertising**
 
-**Live Deployment**
+**Live Application**
 
-🌐 **Public IP:** `http://13.235.89.75`
+🌐 [MukilTechLabsPlatform](https://13.235.89.75/)
 
 **Technology**
 
