@@ -55,6 +55,14 @@ The current ecosystem explores the intersection of:
 
 **AI + Media + Automation + Advertising**
 
+**Live Deployment**
+
+🌐 **Public IP:** `http://13.235.89.75`
+
+**Technology**
+
+`Python` `FastAPI` `SQLite` `HTML` `CSS` `JavaScript` `Linux` `Nginx`
+
 <table>
 <tr>
 
@@ -158,6 +166,38 @@ already operate.
 <a href="https://github.com/Dhin3sh/new-t">
   <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="New-T Repository">
 </a>
+
+### 💰 Collections Manager
+
+**Weekly Collections & Chit Management System**
+
+A web-based application developed under Mukil Tech Labs to simplify weekly collection operations, member payment tracking, and collection administration.
+
+**Core features**
+
+- 🔐 Secure administrator authentication
+- 👥 Member management
+- 💰 Weekly collection tracking
+- 📅 Collection schedule management
+- 📊 Collection and payment records
+- 🗄️ SQLite database persistence
+- ⚙️ Configurable collection duration
+- 🔒 Environment-based configuration and password security
+
+**Engineering focus**
+
+- FastAPI backend architecture
+- SQLite database management
+- Secure password hashing
+- Session-based authentication
+- Environment-driven configuration
+- Linux server deployment
+- Nginx integration
+- Production application management
+
+**Technology**
+
+`Python` `FastAPI` `SQLite` `HTML` `CSS` `JavaScript` `Linux` `Nginx`
 
 ### 📣 new-n — News Now
 
